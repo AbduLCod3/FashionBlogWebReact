@@ -1,6 +1,6 @@
 # [Netlify Live Link](netlify link here)
 
-precious-beignet-35f401.netlify.app
+https://abdul-fashion-blog-mockup.netlify.app
 
 # [Github pages Live Link](github pages link of html version)
 
